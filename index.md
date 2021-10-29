@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+## Manabu to Risachi
 
 Finally figured out how to remove the "index" header! It's a silly mistake, trust me.
 
