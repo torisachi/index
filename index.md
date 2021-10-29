@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-I've been trying to remove the "index" header, but haven't yet figured out where I am supposed to edit/remove it.
+Finally figured out how to remove the "index" header! It's a silly mistake, trust me.
 
 ### Markdown
 
